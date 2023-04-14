@@ -12,3 +12,5 @@ cantidadDias -= semanas * diasEnSemana;
 let dias = cantidadDias;
 
 console.log(anios + " años, " + semanas + " semanas, " + dias + " días");
+
+location.href = "index.html";

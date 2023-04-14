@@ -12,3 +12,5 @@ alert("su temperatura en Fahrenheit es de  "+rFahrenheit)
 
 console.log(rKelvin)
 console.log(rFahrenheit)
+
+location.href = "index.html";
