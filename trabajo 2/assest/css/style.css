@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  margin: 50px;
+}
+#datosPrincipales{
+  font-weight: 500;
+}
+span{
+  color: red;
+  font-weight: 300
+}
